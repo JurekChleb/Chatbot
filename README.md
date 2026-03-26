@@ -1,1 +1,1 @@
-# Chatbot - simple c hatbot in Python based on Open AI, API key needed.
+# Chatbot - simple chatbot in Python based on Open AI, API key needed.
